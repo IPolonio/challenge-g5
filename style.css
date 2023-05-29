@@ -1,8 +1,5 @@
 
-@import url("https://fonts.googleapis.com/css?family=Tangerine");
-@import url("https://fonts.googleapis.com/css?family=Mukta");
-@import url("https://fonts.googleapis.com/css?family=Bebas Neue");
-@import url("https://fonts.googleapis.com/css?family=Tajawal");
+
 
 *{
     background:#F3F5FC;
@@ -35,7 +32,7 @@ main{
     margin-top: 30px;
     padding: 2px;
     text-transform: lowercase;
-   font-family: 'Bebas Neue';
+   
 }
 ::placeholder { color: #0A3871; }
   .text-area:focus {
@@ -74,7 +71,7 @@ main{
     height: 67px;
     margin-left: 30px;
     width: 328px;
-    font-family: 'bebas neue';
+    
 }
 
 .btn-encriptar {
@@ -85,7 +82,7 @@ main{
     cursor: pointer;
     height: 67px;
     width: 328px;
-    font-family: 'Bebas Neue';
+   
 }
 
 .copiar {
